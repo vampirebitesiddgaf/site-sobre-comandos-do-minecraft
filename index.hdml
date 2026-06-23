@@ -1,22 +1,29 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang= ”pt”
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>INSTRUMENTOS MUSICAIS</title>
+    <title>Moda Alternativa</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
-            background: #f4f4f4;
+            background: #1fa2d6;
             padding: 50px;
         }
-        h1 { color: #31008b; }
-    </style>
+        h1 { color: #dae3e7; }
+    </style
 </head>
 <body>
-    <h1>REFORMA DE INSTRUMENTOS MUSICAIS</h1>
-    <p>Reformas em geral de qualquer intrumento</p>
-    <p>Funilaria, pintura, lubrificação em geral</p>
-</body>
+    <header>
+    <h1>DC COMICS</h1>
+    <p>Como a DC comics nasceu</p>
+    <p></p>
+</header>
+<main>F
+    <h2></h2>
+    <p>a</p>
+    <p></p>
+   </main>
+  </body>
 </html>
